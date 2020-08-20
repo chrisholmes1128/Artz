@@ -1,0 +1,74 @@
+[{
+        "id": 1,
+        "name": "Thumbs Up",
+        "imageName": "Piece1",
+        "category": "DRAWING",
+        "owner": "Ben Hood",
+        "description": "Follow my instagram @vvithinsanity and dm for additional info",
+        "state" : "Massachusetts",
+        "city" : "Haverhill"
+}, {
+        "id": 2,
+        "name": "Politicin",
+        "imageName": "Piece2",
+        "category": "IMPROVISED",
+        "owner": "Ben Hood",
+        "description": "Follow my instagram @vvithinsanity and dm for additional info",
+        "state" : "Massachusetts",
+        "city" : "Haverhill"
+}, {
+        "id": 3,
+        "name": "Toker",
+        "imageName": "Piece3",
+        "category": "DRAWING",
+        "owner": "Ben Hood",
+        "description": "Follow my instagram @vvithinsanity and dm for additional info",
+        "state" : "Massachusetts",
+        "city" : "Haverhill"
+}, {
+        "id": 4,
+        "name": "Notebook",
+        "imageName": "Piece4",
+        "category": "IMPROVISED",
+        "owner": "Ben Hood",
+        "description": "Follow my instagram @vvithinsanity and dm for additional info",
+        "state" : "Massachusetts",
+        "city" : "Haverhill"
+}, {
+        "id": 5,
+        "name": "Essence",
+        "imageName": "Piece5",
+        "category": "IMPROVISED",
+        "owner": "MONA",
+        "description": "Follow my instagram @mona.essence and dm for additional info",
+        "state" : "New Hampshire",
+        "city" : "Derry"
+}, {
+        "id": 6,
+        "name": "Good Vibez",
+        "imageName": "Piece6",
+        "category": "PAINTING",
+        "owner": "MONA",
+        "description": "Follow my instagram @mona.essence and dm for additional info",
+        "state" : "New Hampshire",
+        "city" : "Derry"
+}, {
+        "id": 7,
+        "name": "MoNa",
+        "imageName": "Piece7",
+        "category": "PAINTING",
+        "owner": "MONA",
+        "description": "Follow my instagram @mona.essence and dm for additional info",
+        "state" : "New Hampshire",
+        "city" : "Derry"
+}, {
+        "id": 8,
+        "name": "Stop the Ignorance",
+        "imageName": "Piece8",
+        "category": "PAINTING",
+        "owner": "MONA",
+        "description": "Follow my instagram @mona.essence and dm for additional info",
+        "state" : "New Hampshire",
+        "city" : "Derry"
+}]
+
